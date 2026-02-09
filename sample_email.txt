@@ -1,0 +1,18 @@
+From: PaypaI Support <support@paypaI.com>
+To: user@example.com
+Subject: Urgent: Verify your account immediately
+
+Received-SPF: fail
+Authentication-Results:
+    dkim=fail
+    dmarc=fail
+
+Dear Customer,
+
+We noticed unusual activity on your account.
+Please verify your account immediately to avoid suspension.
+
+Click here to verify:
+https://paypaI-secure-login.com/verify
+
+Sender IP: 185.234.218.12
